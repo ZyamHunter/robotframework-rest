@@ -1,0 +1,11 @@
+results/
+logs/
+__pycache__
+node_modules/
+.env
+project-venv
+videos/
+mobile/
+api/
+web/
+venv/

@@ -1,0 +1,12 @@
+{
+  "name": "robotframework-rest",
+  "version": "1.0.0",
+  "description": "Projeto criado para rodar testes automatizados de aceitação (e2e)no back-end, utilizando as tecnologias do Robot Framework. Os testes devem ser capazes de serem rodados localmente e na pipeline",
+  "main": "index.js",
+  "scripts": {
+    "api": "robot -d api ./src/Robot/Clients/Api.robot"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
