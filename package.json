@@ -8,5 +8,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZyamHunter/robotframework-rest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ZyamHunter/robotframework-rest/issues"
+  },
+  "homepage": "https://github.com/ZyamHunter/robotframework-rest#readme"
 }
